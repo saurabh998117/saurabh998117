@@ -1,42 +1,73 @@
 <h1 align="center">Hi 👋, I'm Saurabh Namdev</h1>
 
 <p align="center">
-  <em>A passionate Java Full Stack Developer & IoT Enthusiast</em><br/>
-  <em>B.Tech in Electronics & Communication Engineering | Oriental Institute of Science and Technology, Bhopal</em>
+  <em>Java Full Stack Developer | 2+ Years Experience in Development & Testing</em><br/>
+  <em>B.Tech in Electronics & Communication Engineering</em>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Saurabh Namdev** — a passionate and driven **Electronics & Communication Engineering** student with a strong interest in **Java Full Stack Development**, **IoT**, and **System Engineering**.
+Hi, I'm **Saurabh Namdev** — a results-driven **Java Full Stack Developer** with **2+ years of hands-on experience** in **application development, testing, and system design**.
 
+🔹 Strong expertise in building **scalable web applications** using both **Monolithic and Microservices Architecture**  
+🔹 Experience in **end-to-end development**, from backend APIs to frontend UI and database design  
+🔹 Skilled in **automation testing** using **Selenium, Cucumber, and BDD (Gherkin)**  
+🔹 Passionate about writing **clean, maintainable code** and ensuring **high-quality software delivery**
 
-
-🔧 hands-on experience through internships and personal projects in **IoT, embedded systems**, and **full stack application development**, working with technologies like `Java`, `Spring Boot`, `C++`, `MySQL`, `Arduino`, `ESP32`, and more.
-
-💡 Whether it’s writing clean, efficient backend logic in Java or tinkering with sensors and microcontrollers, I’m always eager to explore new challenges and contribute to meaningful, open-source projects.
-
-Let’s connect or collaborate on something awesome — check out my repositories and feel free to reach out!
+💡 I actively contribute to real-world projects and continuously explore new technologies to improve system performance and reliability.
 
 ---
 
-## 💻 Tech Stack
+## 🚀 Professional Experience
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=plastic&logo=spring-boot&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-gray?style=plastic)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
+✔️ 2+ years experience in:
+- Full Stack Development  
+- Backend API Development  
+- Automation Testing & QA  
+- System Design (Monolithic & Microservices)
+
+---
+
+## 💻 Technical Skills
+
+### 🔹 Backend Development
+- Java (Core + Advanced)
+- Spring Boot
+- Spring MVC
+- Hibernate / JPA
+- REST API Development
+- Microservices Architecture
+- Monolithic Architecture
+
+### 🔹 Frontend Development
+- HTML5, CSS3
+- JavaScript
+- JSP & Servlets
+
+### 🔹 Database
+- MySQL
+- PostgreSQL
+
+### 🔹 Testing & Automation
+- Selenium WebDriver
+- Cucumber
+- Gherkin (BDD Framework)
+- Test Case Design & Execution
+
+### 🔹 Tools & Technologies
+- Git & GitHub
+- Maven
+- Postman
+- VS Code / IntelliJ IDEA
+- Linux Basics
+
+### 🔹 Additional Skills
+- API Integration
+- Debugging & Troubleshooting
+- Agile Methodology (Scrum)
+- Basic DevOps Understanding
 
 ---
 
@@ -44,18 +75,27 @@ Let’s connect or collaborate on something awesome — check out my repositorie
 
 ![](https://github-readme-stats.vercel.app/api?username=saurabh998117&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=saurabh998117&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=saurabh998117&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=saurabh998117&theme=radical&layout=compact)
+
+---
+
+## 📌 Key Highlights
+
+✔️ Developed and tested enterprise-level applications  
+✔️ Hands-on with real-time project implementation  
+✔️ Experience in both Development & QA lifecycle  
+✔️ Strong understanding of SDLC & STLC  
 
 ---
 
 ## 📬 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/saurabh-namdev-787a24251/)
-- 💻 [LeetCode](https://leetcode.com/u/nsaurabh111/)
+- 🔗 LinkedIn: https://www.linkedin.com/in/saurabh-namdev-787a24251/
+- 💻 LeetCode: https://leetcode.com/u/nsaurabh111/
 - 📫 Email: nsaurabh111@gmail.com
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=saurabh998117&icon=1&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with ❤️ by Saurabh Namdev -->
+<!-- Crafted with professionalism by Saurabh Namdev -->
