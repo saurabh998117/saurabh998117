@@ -11,9 +11,9 @@
 
 Hi, I'm **Saurabh Namdev** — a passionate and driven **Electronics & Communication Engineering** student with a strong interest in **Java Full Stack Development**, **IoT**, and **System Engineering**.
 
-Currently pursuing my B.Tech at **Oriental Institute of Science and Technology, Bhopal**, I love building innovative tech that bridges **hardware and software** — from **biometric security systems** to **robotics and automation**.
 
-🔧 I’ve gained hands-on experience through internships and personal projects in **IoT, embedded systems**, and **full stack application development**, working with technologies like `Java`, `Spring Boot`, `C++`, `MySQL`, `Arduino`, `ESP32`, and more.
+
+🔧 hands-on experience through internships and personal projects in **IoT, embedded systems**, and **full stack application development**, working with technologies like `Java`, `Spring Boot`, `C++`, `MySQL`, `Arduino`, `ESP32`, and more.
 
 💡 Whether it’s writing clean, efficient backend logic in Java or tinkering with sensors and microcontrollers, I’m always eager to explore new challenges and contribute to meaningful, open-source projects.
 
