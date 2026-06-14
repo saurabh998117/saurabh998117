@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Saurabh Namdev** — a results-driven **Java Full Stack Developer** with **2+ years of hands-on experience** in **application development, testing, and system design**.
+Hi, I'm **Saurabh** — a results-driven **Java Full Stack Developer** with **2+ years of hands-on experience** in **application development, testing, and system design**.
 
 🔹 Strong expertise in building **scalable web applications** using both **Monolithic and Microservices Architecture**  
 🔹 Experience in **end-to-end development**, from backend APIs to frontend UI and database design  
