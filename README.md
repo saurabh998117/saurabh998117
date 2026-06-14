@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Saurabh Namdev</h1>
+<h1 align="center">Hi 👋, I'm Saurabh </h1>
 
 <p align="center">
   <em>Java Full Stack Developer | 2+ Years Experience in Development & Testing</em><br/>
-  <em>B.Tech in Electronics & Communication Engineering</em>
+
 </p>
 
 ---
@@ -73,11 +73,6 @@ Hi, I'm **Saurabh Namdev** — a results-driven **Java Full Stack Developer** wi
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=saurabh998117&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=saurabh998117&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=saurabh998117&theme=radical&layout=compact)
-
----
 
 ## 📌 Key Highlights
 
@@ -88,14 +83,10 @@ Hi, I'm **Saurabh Namdev** — a results-driven **Java Full Stack Developer** wi
 
 ---
 
-## 📬 Let's Connect
 
-- 🔗 LinkedIn: https://www.linkedin.com/in/saurabh-namdev-787a24251/
-- 💻 LeetCode: https://leetcode.com/u/nsaurabh111/
-- 📫 Email: nsaurabh111@gmail.com
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=saurabh998117&icon=1&color=0)](https://visitcount.itsvg.in)
 
-<!-- Crafted with professionalism by Saurabh Namdev -->
+<!-- Crafted with professionalism by Saurabh -->
